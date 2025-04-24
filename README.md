@@ -145,7 +145,7 @@ The tables in your lakehouse are automatically added to a default semantic model
 
     A table visualization is added to the report:
 
-    ![Screenshot of a report containing a table.](./Images/table-visualization.png)
+   ![Image](https://github.com/user-attachments/assets/c2ec6591-9c55-4e69-a9f9-15a8481e3a27)
 
 4. Hide the **Data** and **Filters** panes to create more space. Then ensure the table visualization is selected and in the **Visualizations** pane, change the visualization to a **Clustered bar chart** and resize it as shown here.
 
