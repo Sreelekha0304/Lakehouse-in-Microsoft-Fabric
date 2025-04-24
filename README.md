@@ -1,4 +1,4 @@
-# Lakehouse-in-Microsoft-Fabric
+# Create a Microsoft Fabric Lakehouse
 Creating Lakehouse ,lake house consists of files and tables stored in a OneLake data store. The managed tables can be queried using SQL, and are included in a default semantic model to support data visualizations.
 title: 'Create a Microsoft Fabric Lakehouse'
     module: 'Get started with lakehouses in Microsoft Fabric'
