@@ -105,7 +105,7 @@ While many data professionals are familiar with SQL, data analysts with Power BI
 1. On the toolbar, expand the **New SQL query** option and select **New visual query**.
 2. Drag the **sales** table to the new visual query editor pane that opens to create a Power Query as shown here: 
 
-    ![Screenshot of a Visual query.](./Images/visual-query.png)
+    ![Image](https://github.com/user-attachments/assets/ad4ef541-57a0-47bb-b04c-ec009437b1b3)
 
 3. In the **Manage columns** menu, select **Choose columns**. Then select only the **SalesOrderNumber** and **SalesOrderLineNumber** columns.
 
