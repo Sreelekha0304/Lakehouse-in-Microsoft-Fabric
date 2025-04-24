@@ -65,7 +65,7 @@ The sales data you uploaded is in a file, which data analysts and engineers can 
 1. On the **Home** page, select the **Files/Data** folder so you can see the **sales.csv** file it contains.
 2. In the **...** menu for the **sales.csv** file, select **Load to Tables** > **New table**.
 3. In **Load to table** dialog box, set the table name to **sales** and confirm the load operation. Then wait for the table to be created and loaded.
-
+![Image](https://github.com/user-attachments/assets/eeceb923-2721-4ad8-9f0e-63a32083421d)
     > **Tip**: If the **sales** table does not automatically appear, in the **...** menu for the **Tables** folder, select **Refresh**.
 
 4. In the **Lakehouse explorer** pane, select the **sales** table that has been created to view the data.
