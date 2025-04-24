@@ -109,7 +109,7 @@ While many data professionals are familiar with SQL, data analysts with Power BI
 
 3. In the **Manage columns** menu, select **Choose columns**. Then select only the **SalesOrderNumber** and **SalesOrderLineNumber** columns.
 
-    ![Screenshot of a Choose columns dialog box.](./Images/choose-columns.png)
+   ![Image](https://github.com/user-attachments/assets/d0e3befc-b034-4989-96db-006cc1d00404)
 
 4. in the **Transform** menu, select **Group by**. Then group the data by using the following **Basic** settings:
 
