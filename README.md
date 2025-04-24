@@ -129,8 +129,7 @@ The tables in your lakehouse are automatically added to a default semantic model
 
 1. In the toolbar, select **Model layouts**. The data model schema for the semantic model is shown.
 
-    ![Screenshot of model layouts](./Images/lakehouse-model-layouts.png)
-
+  ![Image](https://github.com/user-attachments/assets/e2d2bb21-a371-4403-8194-8b1d1c618166)
     > **Note 1**: In this exercise, the semantic model consists of a single table. In a real-world scenario, you would likely create multiple tables in your lakehouse, each of which would be included in the model. You could then define relationships between these tables in the model.
     
     > **Note 2**: The views **frequently_run_queries**, **long_running_queries**, **exec_sessions_history**, and **exec_requests_history** are part of the **queryinsights** schema automatically created by Fabric. It is a feature that provides a holistic view of historical query activity on the SQL analytics endpoint. Since this feature is out of the scope of this exercise, those views should be ignored for now.
