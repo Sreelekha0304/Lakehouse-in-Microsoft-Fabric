@@ -6,6 +6,7 @@ I recently got hands-on with Microsoft Fabric and created a Lakehouse—essentia
 Before working with data in Fabric, create a workspace with the Fabric trial enabled.
 
 I started by signing into Microsoft Fabric. From there, I created a new workspace, making sure to choose a licensing mode that supported the Fabric trial. Once created, the workspace was empty and ready for action.
+
 ![Image](https://github.com/user-attachments/assets/823415bb-b675-4528-9c98-81193c325d3f)
 
 ## Step 2: Create the Lakehouse 
