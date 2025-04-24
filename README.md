@@ -18,7 +18,7 @@ Before working with data in Fabric, create a workspace with the Fabric trial ena
 1. In the menu bar on the left, select **Workspaces** (the icon looks similar to &#128455;).
 1. Create a new workspace with a name of your choice, selecting a licensing mode in the **Advanced** section that includes Fabric capacity (*Trial*, *Premium*, or *Fabric*).
 1. When your new workspace opens, it should be empty.
-![image alt]https://github.com/Sreelekha0304/Lakehouse-in-Microsoft-Fabric/blob/a2e424672974a4df9b70d6a2bd57033af6788a4c/new-workspace.png
+![alt text](image.jpg)]https://github.com/Sreelekha0304/Lakehouse-in-Microsoft-Fabric/blob/a2e424672974a4df9b70d6a2bd57033af6788a4c/new-workspace.png
 
 ## Create a lakehouse
 
