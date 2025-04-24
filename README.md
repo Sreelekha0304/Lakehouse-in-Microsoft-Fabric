@@ -149,7 +149,7 @@ The tables in your lakehouse are automatically added to a default semantic model
 
 4. Hide the **Data** and **Filters** panes to create more space. Then ensure the table visualization is selected and in the **Visualizations** pane, change the visualization to a **Clustered bar chart** and resize it as shown here.
 
-    ![Screenshot of a report containing a clustered bar chart.](./Images/clustered-bar-chart.png)
+   ![Image](https://github.com/user-attachments/assets/2e6f4a21-4618-477d-bb8c-115e2bfdb120)
 
 5. On the **File** menu, select **Save**. Then save the report as `Item Sales Report` in the workspace you created previously.
 6. Now, in the hub menu bar on the left, select your workspace to verify that it contains the following items:
