@@ -70,7 +70,7 @@ The sales data you uploaded is in a file, which data analysts and engineers can 
 
 4. In the **Lakehouse explorer** pane, select the **sales** table that has been created to view the data.
 
-    ![Screenshot of a table preview.](./Images/table-preview.png)
+   ![Image](https://github.com/user-attachments/assets/b7eb73ff-cd4a-4d71-b71c-caa10b0fedde)
 
 5. In the **...** menu for the **sales** table, select **View files** to see the underlying files for this table
 
