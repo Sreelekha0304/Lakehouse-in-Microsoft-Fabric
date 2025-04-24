@@ -49,7 +49,7 @@ Fabric provides multiple ways to load data into the lakehouse, including built-i
 3. In the **...** menu for the new **data** folder, select **Upload** and **Upload files**, and then upload the **sales.csv** file from your local computer (or lab VM if applicable).
 4. After the file has been uploaded, select the **Files/data** folder and verify that the **sales.csv** file has been uploaded, as shown here:
 
-    ![Screenshot of uploaded sales.csv file in a lakehouse.](./Images/uploaded-sales-file.png)
+    ![Image](https://github.com/user-attachments/assets/12dcd09c-82c5-4737-b594-8abaf693028b)
 
 5. Select the **sales.csv** file to see a preview of its contents.
 ## Explore shortcuts
