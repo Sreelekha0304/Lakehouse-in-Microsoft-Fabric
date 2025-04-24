@@ -137,7 +137,7 @@ The tables in your lakehouse are automatically added to a default semantic model
 
 2. In the menu ribbon, select the **Reporting** tab. Then select **New report**. Your current page will change to a report designer view.
 
-    ![Screenshot of the report designer.](./Images/report-designer.png)
+   ![Image](https://github.com/user-attachments/assets/85821e82-0fa1-40d9-a5b1-8958f397697f)
 
 3. In the **Data** pane on the right, expand the **sales** table. Then select the following fields:
     - **Item**
