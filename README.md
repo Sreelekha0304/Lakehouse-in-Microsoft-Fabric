@@ -96,7 +96,7 @@ When you create a lakehouse and define tables in it, a SQL endpoint is automatic
 
 3. Use the **&#9655; Run** button to run the query and view the results, which should show the total revenue for each product.
 
-    ![Screenshot of a SQL query with results.](./Images/sql-query.png)
+  ![Image](https://github.com/user-attachments/assets/3a26ba99-7e6f-4c02-890a-e1ccc54844f1)
 
 ## Create a visual query
 
